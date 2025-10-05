@@ -1,0 +1,412 @@
+2025-10-05 01:16:48 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:16:48 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:16:48 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:16:48 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:16:48 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:16:48 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:17:20 - rag_engine - INFO - query:107 - Processing query: 'What are the tax audit outcomes and indicators mentioned?'
+2025-10-05 01:17:23 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:23 - rag_engine - INFO - query:107 - Processing query: 'Are there any hard labels or historical audit findings?'
+2025-10-05 01:17:24 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:24 - rag_engine - INFO - query:107 - Processing query: 'What is the audit risk score?'
+2025-10-05 01:17:26 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:26 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate mentioned?'
+2025-10-05 01:17:27 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:27 - rag_engine - INFO - query:107 - Processing query: 'What are the tax-adjusted returns or IRR mentioned?'
+2025-10-05 01:17:28 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:28 - rag_engine - INFO - query:107 - Processing query: 'What scenarios are analyzed (base case, P75, P90, P95)?'
+2025-10-05 01:17:29 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:29 - rag_engine - INFO - query:107 - Processing query: 'What are the key tax metrics and financial figures?'
+2025-10-05 01:17:31 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:31 - rag_engine - INFO - query:107 - Processing query: 'What are the critical tax escalation flags or risk drivers?'
+2025-10-05 01:17:33 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:33 - rag_engine - INFO - query:107 - Processing query: 'Are there any material tax issues requiring partner attention?'
+2025-10-05 01:17:35 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:35 - rag_engine - INFO - query:107 - Processing query: 'Provide a comprehensive executive summary of the key tax takeaways'
+2025-10-05 01:17:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:37 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax risks and opportunities?'
+2025-10-05 01:17:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10852, Requested 1159. Please try again in 55ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:37 - rag_engine - INFO - query:107 - Processing query: 'What are the quantified risk insights?'
+2025-10-05 01:17:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:38 - rag_engine - INFO - query:107 - Processing query: 'What balance sheet and tax metrics are mentioned?'
+2025-10-05 01:17:38 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11415, Requested 1302. Please try again in 3.581s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:38 - rag_engine - INFO - query:107 - Processing query: 'What tax liabilities or assets are disclosed?'
+2025-10-05 01:17:39 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11320, Requested 890. Please try again in 1.046s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:39 - rag_engine - INFO - query:107 - Processing query: 'What is the transaction structure (merger, acquisition, deal type)?'
+2025-10-05 01:17:40 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11180, Requested 1271. Please try again in 2.252s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:40 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:17:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:40 - rag_engine - INFO - query:107 - Processing query: 'What is the share class IRR or tax-adjusted IRR?'
+2025-10-05 01:17:41 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11661, Requested 1153. Please try again in 4.066s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:41 - rag_engine - INFO - query:107 - Processing query: 'What investment recommendations are provided?'
+2025-10-05 01:17:41 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11556, Requested 1154. Please try again in 3.55s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:41 - rag_engine - INFO - query:107 - Processing query: 'What are the reserve recommendations?'
+2025-10-05 01:17:42 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11459, Requested 1238. Please try again in 3.481s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:42 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:42 - rag_engine - INFO - query:107 - Processing query: 'What tax contingencies or reserves are mentioned?'
+2025-10-05 01:17:42 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11365, Requested 1088. Please try again in 2.263s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:42 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:42 - rag_engine - INFO - query:107 - Processing query: 'What is the expected tax contingency distribution (P50, P75, P90, P95)?'
+2025-10-05 01:17:43 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11248, Requested 1082. Please try again in 1.648s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:43 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:17:43 - rag_engine - INFO - query:107 - Processing query: 'What methodologies are used (Log-Normal, Conservative, Triangular)?'
+2025-10-05 01:17:43 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11155, Requested 1260. Please try again in 2.073s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:17:43 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:24:48 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:24:48 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:24:48 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:24:48 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:24:49 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:24:49 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:25:16 - rag_engine - INFO - query:107 - Processing query: 'What are the tax audit outcomes and indicators mentioned?'
+2025-10-05 01:25:18 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:18 - rag_engine - INFO - query:107 - Processing query: 'Are there any hard labels or historical audit findings?'
+2025-10-05 01:25:20 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:20 - rag_engine - INFO - query:107 - Processing query: 'What is the audit risk score?'
+2025-10-05 01:25:21 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:21 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate mentioned?'
+2025-10-05 01:25:22 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:22 - rag_engine - INFO - query:107 - Processing query: 'What are the tax-adjusted returns or IRR mentioned?'
+2025-10-05 01:25:23 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:23 - rag_engine - INFO - query:107 - Processing query: 'What scenarios are analyzed (base case, P75, P90, P95)?'
+2025-10-05 01:25:24 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:24 - rag_engine - INFO - query:107 - Processing query: 'What are the key tax metrics and financial figures?'
+2025-10-05 01:25:26 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:26 - rag_engine - INFO - query:107 - Processing query: 'What are the critical tax escalation flags or risk drivers?'
+2025-10-05 01:25:27 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:27 - rag_engine - INFO - query:107 - Processing query: 'Are there any material tax issues requiring partner attention?'
+2025-10-05 01:25:29 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:29 - rag_engine - INFO - query:107 - Processing query: 'Provide a comprehensive executive summary of the key tax takeaways'
+2025-10-05 01:25:31 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:31 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax risks and opportunities?'
+2025-10-05 01:25:32 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10940, Requested 1159. Please try again in 491ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:32 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:32 - rag_engine - INFO - query:107 - Processing query: 'What are the quantified risk insights?'
+2025-10-05 01:25:33 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:33 - rag_engine - INFO - query:107 - Processing query: 'What balance sheet and tax metrics are mentioned?'
+2025-10-05 01:25:34 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11426, Requested 1302. Please try again in 3.636s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:34 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:34 - rag_engine - INFO - query:107 - Processing query: 'What tax liabilities or assets are disclosed?'
+2025-10-05 01:25:34 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11323, Requested 890. Please try again in 1.061s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:34 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:34 - rag_engine - INFO - query:107 - Processing query: 'What is the transaction structure (merger, acquisition, deal type)?'
+2025-10-05 01:25:35 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11218, Requested 1271. Please try again in 2.441s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:35 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:35 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:25:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:36 - rag_engine - INFO - query:107 - Processing query: 'What is the share class IRR or tax-adjusted IRR?'
+2025-10-05 01:25:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11638, Requested 1153. Please try again in 3.953999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:36 - rag_engine - INFO - query:107 - Processing query: 'What investment recommendations are provided?'
+2025-10-05 01:25:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11541, Requested 1154. Please try again in 3.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:37 - rag_engine - INFO - query:107 - Processing query: 'What are the reserve recommendations?'
+2025-10-05 01:25:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11459, Requested 1238. Please try again in 3.482s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:37 - rag_engine - INFO - query:107 - Processing query: 'What tax contingencies or reserves are mentioned?'
+2025-10-05 01:25:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11392, Requested 1088. Please try again in 2.4s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:37 - rag_engine - INFO - query:107 - Processing query: 'What is the expected tax contingency distribution (P50, P75, P90, P95)?'
+2025-10-05 01:25:38 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11286, Requested 1082. Please try again in 1.836s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:25:38 - rag_engine - INFO - query:107 - Processing query: 'What methodologies are used (Log-Normal, Conservative, Triangular)?'
+2025-10-05 01:25:38 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11208, Requested 1260. Please try again in 2.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:25:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:29:46 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:29:46 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:30:18 - rag_engine - INFO - query:107 - Processing query: 'What are the tax audit outcomes and indicators mentioned?'
+2025-10-05 01:30:20 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:20 - rag_engine - INFO - query:107 - Processing query: 'Are there any hard labels or historical audit findings?'
+2025-10-05 01:30:21 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:21 - rag_engine - INFO - query:107 - Processing query: 'What is the audit risk score?'
+2025-10-05 01:30:22 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:22 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate mentioned?'
+2025-10-05 01:30:23 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:23 - rag_engine - INFO - query:107 - Processing query: 'What are the tax-adjusted returns or IRR mentioned?'
+2025-10-05 01:30:24 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:24 - rag_engine - INFO - query:107 - Processing query: 'What scenarios are analyzed (base case, P75, P90, P95)?'
+2025-10-05 01:30:25 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:25 - rag_engine - INFO - query:107 - Processing query: 'What are the key tax metrics and financial figures?'
+2025-10-05 01:30:27 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:27 - rag_engine - INFO - query:107 - Processing query: 'What are the critical tax escalation flags or risk drivers?'
+2025-10-05 01:30:29 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:29 - rag_engine - INFO - query:107 - Processing query: 'Are there any material tax issues requiring partner attention?'
+2025-10-05 01:30:31 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:31 - rag_engine - INFO - query:107 - Processing query: 'Provide a comprehensive executive summary of the key tax takeaways'
+2025-10-05 01:30:33 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:33 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax risks and opportunities?'
+2025-10-05 01:30:33 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11006, Requested 1159. Please try again in 823.999999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:33 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:33 - rag_engine - INFO - query:107 - Processing query: 'What are the quantified risk insights?'
+2025-10-05 01:30:34 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:34 - rag_engine - INFO - query:107 - Processing query: 'What balance sheet and tax metrics are mentioned?'
+2025-10-05 01:30:35 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11484, Requested 1302. Please try again in 3.928s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:35 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:35 - rag_engine - INFO - query:107 - Processing query: 'What tax liabilities or assets are disclosed?'
+2025-10-05 01:30:35 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11411, Requested 890. Please try again in 1.501s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:35 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:35 - rag_engine - INFO - query:107 - Processing query: 'What is the transaction structure (merger, acquisition, deal type)?'
+2025-10-05 01:30:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11357, Requested 1271. Please try again in 3.137s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:36 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:30:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11302, Requested 858. Please try again in 798ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:36 - rag_engine - INFO - query:107 - Processing query: 'What is the share class IRR or tax-adjusted IRR?'
+2025-10-05 01:30:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11219, Requested 1153. Please try again in 1.857s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:36 - rag_engine - INFO - query:107 - Processing query: 'What investment recommendations are provided?'
+2025-10-05 01:30:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11154, Requested 1154. Please try again in 1.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:37 - rag_engine - INFO - query:107 - Processing query: 'What are the reserve recommendations?'
+2025-10-05 01:30:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11072, Requested 1238. Please try again in 1.548999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:37 - rag_engine - INFO - query:107 - Processing query: 'What tax contingencies or reserves are mentioned?'
+2025-10-05 01:30:38 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10972, Requested 1088. Please try again in 296ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:38 - rag_engine - INFO - query:107 - Processing query: 'What is the expected tax contingency distribution (P50, P75, P90, P95)?'
+2025-10-05 01:30:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:30:39 - rag_engine - INFO - query:107 - Processing query: 'What methodologies are used (Log-Normal, Conservative, Triangular)?'
+2025-10-05 01:30:39 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11931, Requested 1260. Please try again in 5.952999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:30:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:31:21 - rag_engine - INFO - query:107 - Processing query: 'Summarize the key tax risks and concerns'
+2025-10-05 01:31:23 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:33:54 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:33:54 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:35:36 - rag_engine - INFO - query:107 - Processing query: 'Summarize the key tax risks and concerns'
+2025-10-05 01:35:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:36 - rag_engine - INFO - query:107 - Processing query: 'What are the tax audit outcomes and indicators mentioned?'
+2025-10-05 01:37:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:37 - rag_engine - INFO - query:107 - Processing query: 'Are there any hard labels or historical audit findings?'
+2025-10-05 01:37:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:39 - rag_engine - INFO - query:107 - Processing query: 'What is the audit risk score?'
+2025-10-05 01:37:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:40 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate mentioned?'
+2025-10-05 01:37:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:41 - rag_engine - INFO - query:107 - Processing query: 'What are the tax-adjusted returns or IRR mentioned?'
+2025-10-05 01:37:44 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:44 - rag_engine - INFO - query:107 - Processing query: 'What scenarios are analyzed (base case, P75, P90, P95)?'
+2025-10-05 01:37:45 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:45 - rag_engine - INFO - query:107 - Processing query: 'What are the key tax metrics and financial figures?'
+2025-10-05 01:37:47 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:47 - rag_engine - INFO - query:107 - Processing query: 'What are the critical tax escalation flags or risk drivers?'
+2025-10-05 01:37:48 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:48 - rag_engine - INFO - query:107 - Processing query: 'Are there any material tax issues requiring partner attention?'
+2025-10-05 01:37:51 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:51 - rag_engine - INFO - query:107 - Processing query: 'Provide a comprehensive executive summary of the key tax takeaways'
+2025-10-05 01:37:53 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:53 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax risks and opportunities?'
+2025-10-05 01:37:55 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:55 - rag_engine - INFO - query:107 - Processing query: 'What are the quantified risk insights?'
+2025-10-05 01:37:56 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:56 - rag_engine - INFO - query:107 - Processing query: 'What balance sheet and tax metrics are mentioned?'
+2025-10-05 01:37:56 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11239, Requested 1284. Please try again in 2.612s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:37:56 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:56 - rag_engine - INFO - query:107 - Processing query: 'What tax liabilities or assets are disclosed?'
+2025-10-05 01:37:57 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11187, Requested 990. Please try again in 881ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:37:57 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:57 - rag_engine - INFO - query:107 - Processing query: 'What is the transaction structure (merger, acquisition, deal type)?'
+2025-10-05 01:37:57 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11083, Requested 1271. Please try again in 1.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:37:57 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:57 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:37:58 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:58 - rag_engine - INFO - query:107 - Processing query: 'What is the share class IRR or tax-adjusted IRR?'
+2025-10-05 01:37:58 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11437, Requested 1278. Please try again in 3.575s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:37:58 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:58 - rag_engine - INFO - query:107 - Processing query: 'What investment recommendations are provided?'
+2025-10-05 01:37:59 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11306, Requested 1166. Please try again in 2.359s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:37:59 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:59 - rag_engine - INFO - query:107 - Processing query: 'What are the reserve recommendations?'
+2025-10-05 01:37:59 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11215, Requested 1258. Please try again in 2.364s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:37:59 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:37:59 - rag_engine - INFO - query:107 - Processing query: 'What tax contingencies or reserves are mentioned?'
+2025-10-05 01:38:00 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11142, Requested 1044. Please try again in 926ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:38:00 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:38:00 - rag_engine - INFO - query:107 - Processing query: 'What is the expected tax contingency distribution (P50, P75, P90, P95)?'
+2025-10-05 01:38:00 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11050, Requested 1303. Please try again in 1.763999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:38:00 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:38:00 - rag_engine - INFO - query:107 - Processing query: 'What methodologies are used (Log-Normal, Conservative, Triangular)?'
+2025-10-05 01:38:01 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10939, Requested 1260. Please try again in 993.999999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:38:01 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:40:57 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:40:57 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:42:19 - rag_engine - INFO - query:107 - Processing query: 'What are the tax audit outcomes and indicators mentioned?'
+2025-10-05 01:42:21 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:21 - rag_engine - INFO - query:107 - Processing query: 'Are there any hard labels or historical audit findings?'
+2025-10-05 01:42:22 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:22 - rag_engine - INFO - query:107 - Processing query: 'What is the audit risk score?'
+2025-10-05 01:42:23 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:23 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate mentioned?'
+2025-10-05 01:42:24 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:24 - rag_engine - INFO - query:107 - Processing query: 'What are the tax-adjusted returns or IRR mentioned?'
+2025-10-05 01:42:24 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:24 - rag_engine - INFO - query:107 - Processing query: 'What scenarios are analyzed (base case, P75, P90, P95)?'
+2025-10-05 01:42:25 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:25 - rag_engine - INFO - query:107 - Processing query: 'What are the key tax metrics and financial figures?'
+2025-10-05 01:42:27 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:27 - rag_engine - INFO - query:107 - Processing query: 'What are the critical tax escalation flags or risk drivers?'
+2025-10-05 01:42:29 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:29 - rag_engine - INFO - query:107 - Processing query: 'Are there any material tax issues requiring partner attention?'
+2025-10-05 01:42:30 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:30 - rag_engine - INFO - query:107 - Processing query: 'Provide a comprehensive executive summary of the key tax takeaways'
+2025-10-05 01:42:32 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:32 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax risks and opportunities?'
+2025-10-05 01:42:34 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:34 - rag_engine - INFO - query:107 - Processing query: 'What are the quantified risk insights?'
+2025-10-05 01:42:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:36 - rag_engine - INFO - query:107 - Processing query: 'What balance sheet and tax metrics are mentioned?'
+2025-10-05 01:42:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11523, Requested 1262. Please try again in 3.924s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:36 - rag_engine - INFO - query:107 - Processing query: 'What tax liabilities or assets are disclosed?'
+2025-10-05 01:42:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11458, Requested 968. Please try again in 2.126s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:36 - rag_engine - INFO - query:107 - Processing query: 'What is the transaction structure (merger, acquisition, deal type)?'
+2025-10-05 01:42:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11395, Requested 1271. Please try again in 3.327s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:37 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:42:38 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:38 - rag_engine - INFO - query:107 - Processing query: 'What is the share class IRR or tax-adjusted IRR?'
+2025-10-05 01:42:39 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11601, Requested 1302. Please try again in 4.515s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:39 - rag_engine - INFO - query:107 - Processing query: 'What investment recommendations are provided?'
+2025-10-05 01:42:39 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11445, Requested 1313. Please try again in 3.788s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:39 - rag_engine - INFO - query:107 - Processing query: 'What are the reserve recommendations?'
+2025-10-05 01:42:40 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11324, Requested 1249. Please try again in 2.862s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:40 - rag_engine - INFO - query:107 - Processing query: 'What tax contingencies or reserves are mentioned?'
+2025-10-05 01:42:40 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11245, Requested 1237. Please try again in 2.41s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:40 - rag_engine - INFO - query:107 - Processing query: 'What is the expected tax contingency distribution (P50, P75, P90, P95)?'
+2025-10-05 01:42:41 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11190, Requested 1308. Please try again in 2.49s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:42:41 - rag_engine - INFO - query:107 - Processing query: 'What methodologies are used (Log-Normal, Conservative, Triangular)?'
+2025-10-05 01:42:41 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11072, Requested 1260. Please try again in 1.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:42:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:45:13 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:45:14 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:45:38 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate?'
+2025-10-05 01:45:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:47:51 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:47:51 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:47:52 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:47:52 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-05 01:48:19 - rag_engine - INFO - query:107 - Processing query: 'What are the tax audit outcomes and indicators mentioned?'
+2025-10-05 01:48:21 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:21 - rag_engine - INFO - query:107 - Processing query: 'Are there any hard labels or historical audit findings?'
+2025-10-05 01:48:22 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:22 - rag_engine - INFO - query:107 - Processing query: 'What is the audit risk score?'
+2025-10-05 01:48:23 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:23 - rag_engine - INFO - query:107 - Processing query: 'What is the effective tax rate mentioned?'
+2025-10-05 01:48:24 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:24 - rag_engine - INFO - query:107 - Processing query: 'What are the tax-adjusted returns or IRR mentioned?'
+2025-10-05 01:48:25 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:25 - rag_engine - INFO - query:107 - Processing query: 'What scenarios are analyzed (base case, P75, P90, P95)?'
+2025-10-05 01:48:26 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:26 - rag_engine - INFO - query:107 - Processing query: 'What are the key tax metrics and financial figures?'
+2025-10-05 01:48:27 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:27 - rag_engine - INFO - query:107 - Processing query: 'What are the critical tax escalation flags or risk drivers?'
+2025-10-05 01:48:29 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:29 - rag_engine - INFO - query:107 - Processing query: 'Are there any material tax issues requiring partner attention?'
+2025-10-05 01:48:31 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:31 - rag_engine - INFO - query:107 - Processing query: 'Provide a comprehensive executive summary of the key tax takeaways'
+2025-10-05 01:48:33 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:33 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax risks and opportunities?'
+2025-10-05 01:48:34 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:34 - rag_engine - INFO - query:107 - Processing query: 'What are the quantified risk insights?'
+2025-10-05 01:48:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:36 - rag_engine - INFO - query:107 - Processing query: 'What balance sheet and tax metrics are mentioned?'
+2025-10-05 01:48:36 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11367, Requested 1262. Please try again in 3.141s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:36 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:36 - rag_engine - INFO - query:107 - Processing query: 'What tax liabilities or assets are disclosed?'
+2025-10-05 01:48:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11286, Requested 968. Please try again in 1.266s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:37 - rag_engine - INFO - query:107 - Processing query: 'What is the transaction structure (merger, acquisition, deal type)?'
+2025-10-05 01:48:37 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11144, Requested 1271. Please try again in 2.075s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:37 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:37 - rag_engine - INFO - query:107 - Processing query: 'What jurisdictions are involved?'
+2025-10-05 01:48:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:39 - rag_engine - INFO - query:107 - Processing query: 'What is the share class IRR or tax-adjusted IRR?'
+2025-10-05 01:48:39 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11456, Requested 1302. Please try again in 3.788999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:39 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:39 - rag_engine - INFO - query:107 - Processing query: 'What investment recommendations are provided?'
+2025-10-05 01:48:40 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11367, Requested 1313. Please try again in 3.398999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:40 - rag_engine - INFO - query:107 - Processing query: 'What are the reserve recommendations?'
+2025-10-05 01:48:40 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11258, Requested 1249. Please try again in 2.531s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:40 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:40 - rag_engine - INFO - query:107 - Processing query: 'What tax contingencies or reserves are mentioned?'
+2025-10-05 01:48:41 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11149, Requested 1237. Please try again in 1.926999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:41 - rag_engine - INFO - query:107 - Processing query: 'What is the expected tax contingency distribution (P50, P75, P90, P95)?'
+2025-10-05 01:48:41 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11069, Requested 1308. Please try again in 1.881s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:41 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:48:41 - rag_engine - INFO - query:107 - Processing query: 'What methodologies are used (Log-Normal, Conservative, Triangular)?'
+2025-10-05 01:48:42 - rag_engine - ERROR - _call:46 - Groq API error: 429 - {"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jywvm2w9ed7bbm7xk64fn4ng` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10957, Requested 1260. Please try again in 1.085s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+2025-10-05 01:48:42 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:49:19 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax liabilities?'
+2025-10-05 01:49:21 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:50:43 - rag_engine - INFO - query:107 - Processing query: 'What are the main tax liabilities?'
+2025-10-05 01:50:45 - rag_engine - INFO - query:128 - Query processed successfully

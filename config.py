@@ -40,3 +40,4 @@ MAX_TOKENS = 2000
 # UI Configuration
 APP_TITLE = "M&A Tax Risk Assessment Model"
 APP_SUBTITLE = "Professional Due Diligence and Tax Exposure Analysis"
+APP_ICON = "📊"  # Add this line

@@ -1,0 +1,60 @@
+2025-10-05 01:17:20 - tax_analyzer - INFO - analyze_document:19 - Starting comprehensive tax analysis
+2025-10-05 01:17:20 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: audit_outcomes
+2025-10-05 01:17:26 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: business_analysis
+2025-10-05 01:17:31 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: escalation_flags
+2025-10-05 01:17:35 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: executive_summary
+2025-10-05 01:17:38 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: balance_sheet
+2025-10-05 01:17:39 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: transaction_structure
+2025-10-05 01:17:40 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: investment_analysis
+2025-10-05 01:17:42 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: tax_contingencies
+2025-10-05 01:17:43 - tax_analyzer - INFO - analyze_document:79 - Tax analysis complete
+2025-10-05 01:25:16 - tax_analyzer - INFO - analyze_document:19 - Starting comprehensive tax analysis
+2025-10-05 01:25:16 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: audit_outcomes
+2025-10-05 01:25:21 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: business_analysis
+2025-10-05 01:25:26 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: escalation_flags
+2025-10-05 01:25:29 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: executive_summary
+2025-10-05 01:25:33 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: balance_sheet
+2025-10-05 01:25:34 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: transaction_structure
+2025-10-05 01:25:36 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: investment_analysis
+2025-10-05 01:25:37 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: tax_contingencies
+2025-10-05 01:25:38 - tax_analyzer - INFO - analyze_document:79 - Tax analysis complete
+2025-10-05 01:30:18 - tax_analyzer - INFO - analyze_document:19 - Starting comprehensive tax analysis
+2025-10-05 01:30:18 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: audit_outcomes
+2025-10-05 01:30:22 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: business_analysis
+2025-10-05 01:30:27 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: escalation_flags
+2025-10-05 01:30:31 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: executive_summary
+2025-10-05 01:30:34 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: balance_sheet
+2025-10-05 01:30:35 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: transaction_structure
+2025-10-05 01:30:36 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: investment_analysis
+2025-10-05 01:30:37 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: tax_contingencies
+2025-10-05 01:30:39 - tax_analyzer - INFO - analyze_document:79 - Tax analysis complete
+2025-10-05 01:37:36 - tax_analyzer - INFO - analyze_document:19 - Starting comprehensive tax analysis
+2025-10-05 01:37:36 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: audit_outcomes
+2025-10-05 01:37:40 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: business_analysis
+2025-10-05 01:37:47 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: escalation_flags
+2025-10-05 01:37:51 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: executive_summary
+2025-10-05 01:37:56 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: balance_sheet
+2025-10-05 01:37:57 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: transaction_structure
+2025-10-05 01:37:58 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: investment_analysis
+2025-10-05 01:37:59 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: tax_contingencies
+2025-10-05 01:38:01 - tax_analyzer - INFO - analyze_document:79 - Tax analysis complete
+2025-10-05 01:42:19 - tax_analyzer - INFO - analyze_document:19 - Starting comprehensive tax analysis
+2025-10-05 01:42:19 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: audit_outcomes
+2025-10-05 01:42:23 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: business_analysis
+2025-10-05 01:42:27 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: escalation_flags
+2025-10-05 01:42:30 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: executive_summary
+2025-10-05 01:42:36 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: balance_sheet
+2025-10-05 01:42:36 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: transaction_structure
+2025-10-05 01:42:38 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: investment_analysis
+2025-10-05 01:42:40 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: tax_contingencies
+2025-10-05 01:42:41 - tax_analyzer - INFO - analyze_document:79 - Tax analysis complete
+2025-10-05 01:48:19 - tax_analyzer - INFO - analyze_document:19 - Starting comprehensive tax analysis
+2025-10-05 01:48:19 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: audit_outcomes
+2025-10-05 01:48:23 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: business_analysis
+2025-10-05 01:48:27 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: escalation_flags
+2025-10-05 01:48:31 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: executive_summary
+2025-10-05 01:48:36 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: balance_sheet
+2025-10-05 01:48:37 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: transaction_structure
+2025-10-05 01:48:39 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: investment_analysis
+2025-10-05 01:48:40 - tax_analyzer - INFO - analyze_document:66 - Analyzing section: tax_contingencies
+2025-10-05 01:48:42 - tax_analyzer - INFO - analyze_document:79 - Tax analysis complete

@@ -1,0 +1,45 @@
+2025-10-05 01:16:47 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:16:47 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:16:47 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:16:47 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:16:48 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:16:48 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:16:48 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:16:48 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:16:48 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:17:09 - vector_store - INFO - add_documents:66 - Adding 100 documents to vector store
+2025-10-05 01:17:14 - vector_store - INFO - add_documents:68 - Successfully added 100 documents
+2025-10-05 01:24:48 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:24:48 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:24:48 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:24:48 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:24:48 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:24:48 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:24:49 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:24:49 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:24:49 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:25:00 - vector_store - INFO - add_documents:66 - Adding 100 documents to vector store
+2025-10-05 01:25:06 - vector_store - INFO - add_documents:68 - Successfully added 100 documents
+2025-10-05 01:29:45 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:29:45 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:29:46 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:29:55 - vector_store - INFO - add_documents:66 - Adding 100 documents to vector store
+2025-10-05 01:30:00 - vector_store - INFO - add_documents:68 - Successfully added 100 documents
+2025-10-05 01:33:54 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:33:54 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:33:54 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:34:35 - vector_store - INFO - add_documents:66 - Adding 576 documents to vector store
+2025-10-05 01:35:03 - vector_store - INFO - add_documents:68 - Successfully added 576 documents
+2025-10-05 01:40:56 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:40:56 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:40:57 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:41:27 - vector_store - INFO - add_documents:66 - Adding 576 documents to vector store
+2025-10-05 01:41:58 - vector_store - INFO - add_documents:68 - Successfully added 576 documents
+2025-10-05 01:47:50 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:47:50 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:47:51 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:47:52 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:47:52 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:47:52 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-05 01:48:04 - vector_store - INFO - add_documents:66 - Adding 100 documents to vector store
+2025-10-05 01:48:10 - vector_store - INFO - add_documents:68 - Successfully added 100 documents

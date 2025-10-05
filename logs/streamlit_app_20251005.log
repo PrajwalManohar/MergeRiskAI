@@ -1,0 +1,39 @@
+2025-10-05 01:16:47 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:47 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:47 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:47 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:47 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:47 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:16:48 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:17:06 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:17:06 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:17:06 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:17:15 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-05 01:17:15 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-05 01:17:15 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-05 01:17:43 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:17:43 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:17:43 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:18:26 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:18:26 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-05 01:18:26 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
