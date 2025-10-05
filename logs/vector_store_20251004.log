@@ -1,0 +1,91 @@
+2025-10-04 22:55:13 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 22:55:14 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 22:55:20 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 22:55:23 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 22:55:52 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 22:55:52 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 22:55:52 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 22:56:09 - vector_store - ERROR - __init__:45 - Error initializing VectorStoreManager: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 22:56:09 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 22:56:09 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 22:56:09 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 22:56:09 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 22:56:09 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 22:56:09 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:00:43 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:00:59 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:00:59 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:00:59 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:05:13 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:05:32 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:05:32 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:05:32 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:07:08 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:07:23 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:07:23 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:07:23 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:10:21 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:11:36 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:11:48 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:11:49 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:11:49 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:15:06 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:15:23 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:15:23 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:15:23 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:18:10 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:18:26 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:18:26 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:18:26 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:19:15 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:19:28 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:19:28 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:19:28 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:19:28 - vector_store - INFO - get_collection_count:127 - Collection contains 0 documents
+2025-10-04 23:20:15 - vector_store - INFO - get_collection_count:127 - Collection contains 0 documents
+2025-10-04 23:20:19 - vector_store - INFO - add_documents:74 - Adding 100 documents to vector store
+2025-10-04 23:20:23 - vector_store - ERROR - add_documents:82 - Error adding documents: Expected metadata value to be a str, int, float or bool, got 2025-09-08 13:33:52+00:00 which is a <class 'datetime.datetime'>
+
+Try filtering complex metadata from the document using langchain_community.vectorstores.utils.filter_complex_metadata.
+2025-10-04 23:25:20 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:25:21 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:25:38 - vector_store - INFO - __init__:30 - Embeddings model loaded: sentence-transformers/all-MiniLM-L6-v2
+2025-10-04 23:25:38 - vector_store - INFO - _initialize_vector_store:57 - Vector store initialized: tax_documents
+2025-10-04 23:25:38 - vector_store - INFO - __init__:42 - VectorStoreManager initialized successfully
+2025-10-04 23:25:38 - vector_store - INFO - get_collection_count:127 - Collection contains 0 documents
+2025-10-04 23:25:39 - vector_store - ERROR - __init__:45 - Error initializing VectorStoreManager: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:25:53 - vector_store - INFO - get_collection_count:127 - Collection contains 0 documents
+2025-10-04 23:25:58 - vector_store - INFO - add_documents:74 - Adding 100 documents to vector store
+2025-10-04 23:26:03 - vector_store - INFO - add_documents:78 - Successfully added 100 documents
+2025-10-04 23:26:34 - vector_store - INFO - get_collection_count:127 - Collection contains 100 documents
+2025-10-04 23:26:34 - vector_store - INFO - get_collection_count:127 - Collection contains 100 documents
+2025-10-04 23:29:00 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:29:21 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:29:22 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:29:33 - vector_store - ERROR - __init__:45 - Error initializing VectorStoreManager: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:29:33 - vector_store - ERROR - __init__:45 - Error initializing VectorStoreManager: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:31:18 - vector_store - INFO - __init__:22 - Initializing VectorStoreManager
+2025-10-04 23:31:18 - vector_store - INFO - __init__:26 - Using ChromaDB default embeddings
+2025-10-04 23:31:19 - vector_store - INFO - __init__:48 - VectorStoreManager initialized successfully
+2025-10-04 23:31:31 - vector_store - INFO - add_documents:57 - Adding 100 documents to vector store
+2025-10-04 23:31:31 - vector_store - ERROR - add_documents:62 - Error adding documents: 'ONNXMiniLM_L6_V2' object has no attribute 'embed_documents'
+2025-10-04 23:32:41 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-04 23:32:41 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-04 23:32:42 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-04 23:32:54 - vector_store - INFO - add_documents:66 - Adding 100 documents to vector store
+2025-10-04 23:33:20 - vector_store - INFO - add_documents:68 - Successfully added 100 documents
+2025-10-04 23:34:59 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-04 23:34:59 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-04 23:35:00 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-04 23:35:00 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-04 23:35:00 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-04 23:35:00 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully
+2025-10-04 23:35:10 - vector_store - INFO - add_documents:66 - Adding 100 documents to vector store
+2025-10-04 23:35:15 - vector_store - INFO - add_documents:68 - Successfully added 100 documents
+2025-10-04 23:37:50 - vector_store - INFO - add_documents:66 - Adding 576 documents to vector store
+2025-10-04 23:38:18 - vector_store - INFO - add_documents:68 - Successfully added 576 documents
+2025-10-04 23:40:13 - vector_store - INFO - add_documents:66 - Adding 2368 documents to vector store
+2025-10-04 23:42:18 - vector_store - INFO - add_documents:68 - Successfully added 2368 documents
+2025-10-05 01:03:03 - vector_store - INFO - __init__:37 - Initializing VectorStoreManager
+2025-10-05 01:03:03 - vector_store - INFO - __init__:41 - Using ChromaDB default embeddings
+2025-10-05 01:03:03 - vector_store - INFO - __init__:57 - VectorStoreManager initialized successfully

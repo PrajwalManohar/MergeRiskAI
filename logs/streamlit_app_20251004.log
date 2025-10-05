@@ -1,0 +1,190 @@
+2025-10-04 22:55:13 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:13 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:14 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:14 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:20 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:20 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:23 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:55:23 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 22:56:09 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 22:56:09 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 22:56:09 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 22:56:09 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 22:56:10 - streamlit_app - ERROR - <module>:418 - Application error: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 22:56:10 - streamlit_app - ERROR - <module>:418 - Application error: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:00:43 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:00:59 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:01:00 - streamlit_app - ERROR - <module>:418 - Application error: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:05:13 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:05:32 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:05:32 - streamlit_app - ERROR - <module>:418 - Application error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:07:08 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:07:08 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:07:23 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:07:23 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:07:23 - streamlit_app - ERROR - <module>:418 - Application error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:07:23 - streamlit_app - ERROR - <module>:418 - Application error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:10:21 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:10:21 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:11:36 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:11:49 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:11:49 - streamlit_app - ERROR - <module>:418 - Application error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:15:06 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:15:06 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:15:23 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:15:23 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:15:23 - streamlit_app - ERROR - <module>:418 - Application error: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:15:23 - streamlit_app - ERROR - <module>:418 - Application error: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:18:10 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:18:26 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:18:26 - streamlit_app - ERROR - <module>:418 - Application error: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:19:15 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:19:15 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:19:28 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:19:28 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:19:28 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:19:28 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:20:15 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:20:15 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:20:23 - streamlit_app - ERROR - main:281 - Document processing error: Expected metadata value to be a str, int, float or bool, got 2025-09-08 13:33:52+00:00 which is a <class 'datetime.datetime'>
+
+Try filtering complex metadata from the document using langchain_community.vectorstores.utils.filter_complex_metadata.
+2025-10-04 23:20:23 - streamlit_app - ERROR - main:281 - Document processing error: Expected metadata value to be a str, int, float or bool, got 2025-09-08 13:33:52+00:00 which is a <class 'datetime.datetime'>
+
+Try filtering complex metadata from the document using langchain_community.vectorstores.utils.filter_complex_metadata.
+2025-10-04 23:25:20 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:25:20 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:25:21 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:25:21 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:25:38 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:25:38 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:25:38 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:25:38 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:25:39 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:25:39 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:25:53 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:25:53 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:26:03 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:26:03 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:26:34 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:26:34 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:26:34 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:26:34 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:26:34 - streamlit_app - INFO - main:336 - Query answered: What are the total tax liabilities identified in t...
+2025-10-04 23:26:34 - streamlit_app - INFO - main:336 - Query answered: What are the total tax liabilities identified in t...
+2025-10-04 23:29:00 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:29:00 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:29:21 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:29:21 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:29:22 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:29:22 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:29:33 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:29:33 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:29:33 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:29:33 - streamlit_app - ERROR - <module>:418 - Application error: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-10-04 23:31:18 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:31:18 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:31:19 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:31:19 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:31:19 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:31:19 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:31:26 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:31:26 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:31:31 - streamlit_app - ERROR - main:281 - Document processing error: 'ONNXMiniLM_L6_V2' object has no attribute 'embed_documents'
+2025-10-04 23:31:31 - streamlit_app - ERROR - main:281 - Document processing error: 'ONNXMiniLM_L6_V2' object has no attribute 'embed_documents'
+2025-10-04 23:32:41 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:32:41 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:32:42 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:32:42 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:32:42 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:32:42 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:32:50 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:32:50 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:33:20 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:33:20 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:33:45 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:33:45 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:33:45 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:33:45 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:33:46 - streamlit_app - INFO - main:336 - Query answered: What are the total tax liabilities identified in t...
+2025-10-04 23:33:46 - streamlit_app - INFO - main:336 - Query answered: What are the total tax liabilities identified in t...
+2025-10-04 23:34:59 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:34:59 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:35:00 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-04 23:35:06 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:06 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:16 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:35:16 - streamlit_app - INFO - main:277 - Document processed successfully: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:35:31 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:31 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:42 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:42 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:42 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:42 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:35:44 - streamlit_app - INFO - main:336 - Query answered: What tax compliance issues are highlighted?...
+2025-10-04 23:35:44 - streamlit_app - INFO - main:336 - Query answered: What tax compliance issues are highlighted?...
+2025-10-04 23:36:21 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:21 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:21 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:21 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:22 - streamlit_app - INFO - main:336 - Query answered: What tax jurisdictions are involved?...
+2025-10-04 23:36:22 - streamlit_app - INFO - main:336 - Query answered: What tax jurisdictions are involved?...
+2025-10-04 23:36:44 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:44 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:45 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:45 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:36:46 - streamlit_app - INFO - main:336 - Query answered: What are the total tax liabilities identified in t...
+2025-10-04 23:36:46 - streamlit_app - INFO - main:336 - Query answered: What are the total tax liabilities identified in t...
+2025-10-04 23:37:00 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:37:00 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:37:00 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:37:00 - streamlit_app - INFO - main:236 - File uploaded: 258320c0-f121-4cfa-8846-24343be9678f.pdf (1.53MB)
+2025-10-04 23:37:01 - streamlit_app - INFO - main:336 - Query answered: Are there any IRS findings or adjustments?...
+2025-10-04 23:37:01 - streamlit_app - INFO - main:336 - Query answered: Are there any IRS findings or adjustments?...
+2025-10-04 23:37:18 - streamlit_app - INFO - main:236 - File uploaded: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf (1.60MB)
+2025-10-04 23:37:18 - streamlit_app - INFO - main:236 - File uploaded: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf (1.60MB)
+2025-10-04 23:38:18 - streamlit_app - INFO - main:277 - Document processed successfully: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf
+2025-10-04 23:38:18 - streamlit_app - INFO - main:277 - Document processed successfully: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf
+2025-10-04 23:38:44 - streamlit_app - INFO - main:236 - File uploaded: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf (1.60MB)
+2025-10-04 23:38:44 - streamlit_app - INFO - main:236 - File uploaded: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf (1.60MB)
+2025-10-04 23:38:44 - streamlit_app - INFO - main:236 - File uploaded: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf (1.60MB)
+2025-10-04 23:38:44 - streamlit_app - INFO - main:236 - File uploaded: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf (1.60MB)
+2025-10-04 23:38:46 - streamlit_app - INFO - main:336 - Query answered: What tax compliance issues are highlighted?...
+2025-10-04 23:38:46 - streamlit_app - INFO - main:336 - Query answered: What tax compliance issues are highlighted?...
+2025-10-04 23:39:34 - streamlit_app - INFO - main:236 - File uploaded: 0e655865-en.pdf (4.38MB)
+2025-10-04 23:39:34 - streamlit_app - INFO - main:236 - File uploaded: 0e655865-en.pdf (4.38MB)
+2025-10-04 23:42:18 - streamlit_app - INFO - main:277 - Document processed successfully: 0e655865-en.pdf
+2025-10-04 23:42:18 - streamlit_app - INFO - main:277 - Document processed successfully: 0e655865-en.pdf
+2025-10-04 23:44:17 - streamlit_app - INFO - main:236 - File uploaded: 0e655865-en.pdf (4.38MB)
+2025-10-04 23:44:17 - streamlit_app - INFO - main:236 - File uploaded: 0e655865-en.pdf (4.38MB)
+2025-10-04 23:44:18 - streamlit_app - INFO - main:236 - File uploaded: 0e655865-en.pdf (4.38MB)
+2025-10-04 23:44:18 - streamlit_app - INFO - main:236 - File uploaded: 0e655865-en.pdf (4.38MB)
+2025-10-04 23:44:19 - streamlit_app - INFO - main:336 - Query answered: Are there any pending tax audits or examinations m...
+2025-10-04 23:44:19 - streamlit_app - INFO - main:336 - Query answered: Are there any pending tax audits or examinations m...
+2025-10-05 01:03:03 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:03:03 - streamlit_app - INFO - initialize_session_state:81 - DocumentProcessor initialized in session state
+2025-10-05 01:03:03 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:03:03 - streamlit_app - INFO - initialize_session_state:85 - VectorStoreManager initialized in session state
+2025-10-05 01:03:03 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state
+2025-10-05 01:03:03 - streamlit_app - INFO - initialize_session_state:89 - RAGEngine initialized in session state

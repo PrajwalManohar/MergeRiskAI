@@ -1,0 +1,52 @@
+2025-10-04 22:56:09 - rag_engine - INFO - __init__:25 - Initializing RAGEngine with Groq
+2025-10-04 22:56:10 - rag_engine - ERROR - __init__:74 - Error initializing RAGEngine: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:00:59 - rag_engine - INFO - __init__:25 - Initializing RAGEngine with Groq
+2025-10-04 23:01:00 - rag_engine - ERROR - __init__:74 - Error initializing RAGEngine: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:05:32 - rag_engine - INFO - __init__:59 - Initializing RAGEngine with Groq
+2025-10-04 23:05:32 - rag_engine - ERROR - __init__:103 - Error initializing RAGEngine: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:07:23 - rag_engine - INFO - __init__:64 - Initializing RAGEngine with Groq
+2025-10-04 23:07:23 - rag_engine - ERROR - __init__:113 - Error initializing RAGEngine: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:11:49 - rag_engine - INFO - __init__:64 - Initializing RAGEngine with Groq
+2025-10-04 23:11:49 - rag_engine - ERROR - __init__:113 - Error initializing RAGEngine: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-10-04 23:15:23 - rag_engine - INFO - __init__:25 - Initializing RAGEngine with Groq
+2025-10-04 23:15:23 - rag_engine - ERROR - __init__:78 - Error initializing RAGEngine: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:18:26 - rag_engine - INFO - __init__:25 - Initializing RAGEngine with Groq
+2025-10-04 23:18:26 - rag_engine - ERROR - __init__:78 - Error initializing RAGEngine: 1 validation error for ChatGroq
+__root__
+  Client.__init__() got an unexpected keyword argument 'proxies' (type=type_error)
+2025-10-04 23:19:28 - rag_engine - INFO - __init__:35 - Initializing RAGEngine
+2025-10-04 23:19:28 - rag_engine - INFO - __init__:49 - RAGEngine initialized
+2025-10-04 23:25:38 - rag_engine - INFO - __init__:35 - Initializing RAGEngine
+2025-10-04 23:25:38 - rag_engine - INFO - __init__:49 - RAGEngine initialized
+2025-10-04 23:31:19 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-04 23:31:19 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-04 23:32:42 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-04 23:32:42 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-04 23:33:46 - rag_engine - INFO - query:107 - Processing query: 'What are the total tax liabilities identified in this document?'
+2025-10-04 23:33:46 - rag_engine - ERROR - _call:46 - Groq API error: 400 - {"error":{"message":"The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+
+2025-10-04 23:33:46 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-04 23:35:00 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-04 23:35:00 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-04 23:35:00 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-04 23:35:00 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully
+2025-10-04 23:35:42 - rag_engine - INFO - query:107 - Processing query: 'What tax compliance issues are highlighted?'
+2025-10-04 23:35:44 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-04 23:36:21 - rag_engine - INFO - query:107 - Processing query: 'What tax jurisdictions are involved?'
+2025-10-04 23:36:22 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-04 23:36:45 - rag_engine - INFO - query:107 - Processing query: 'What are the total tax liabilities identified in this document?'
+2025-10-04 23:36:46 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-04 23:37:00 - rag_engine - INFO - query:107 - Processing query: 'Are there any IRS findings or adjustments?'
+2025-10-04 23:37:01 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-04 23:38:44 - rag_engine - INFO - query:107 - Processing query: 'What tax compliance issues are highlighted?'
+2025-10-04 23:38:46 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-04 23:44:18 - rag_engine - INFO - query:107 - Processing query: 'Are there any pending tax audits or examinations mentioned?'
+2025-10-04 23:44:19 - rag_engine - INFO - query:128 - Query processed successfully
+2025-10-05 01:03:03 - rag_engine - INFO - __init__:64 - Initializing RAGEngine
+2025-10-05 01:03:03 - rag_engine - INFO - __init__:98 - RAGEngine initialized successfully

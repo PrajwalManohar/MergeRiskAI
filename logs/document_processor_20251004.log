@@ -1,0 +1,92 @@
+2025-10-04 22:55:13 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 22:55:14 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 22:55:20 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 22:55:23 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:00:43 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:05:13 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:07:08 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:10:21 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:11:36 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:15:06 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:18:10 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:19:15 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:20:15 - document_processor - INFO - process_uploaded_file:188 - Starting complete processing for: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:20:15 - document_processor - INFO - extract_text_from_pdf:38 - Extracting text from PDF: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:20:19 - document_processor - INFO - extract_text_from_pdf:51 - Successfully extracted 75911 characters from 23 pages
+2025-10-04 23:20:19 - document_processor - INFO - extract_metadata:70 - Extracting metadata from: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:20:19 - document_processor - INFO - extract_metadata:91 - Metadata extracted: {'filename': '258320c0-f121-4cfa-8846-24343be9678f.pdf', 'pages': 23, 'file_size_mb': 1.53, 'creator': 'pdftk 2.02 - www.pdftk.com', 'producer': 'itext-paulo-155 (itextpdf.sf.net-lowagie.com)', 'creation_date': datetime.datetime(2025, 9, 8, 13, 33, 52, tzinfo=datetime.timezone.utc), 'modification_date': datetime.datetime(2025, 9, 8, 13, 33, 52, tzinfo=datetime.timezone.utc)}
+2025-10-04 23:20:19 - document_processor - INFO - analyze_document_content:109 - Analyzing document content
+2025-10-04 23:20:19 - document_processor - INFO - analyze_document_content:139 - Document analysis complete: {'total_characters': 75911, 'total_words': 12361, 'estimated_reading_time_minutes': 61.8, 'contains_financial_data': True, 'tax_keywords_found': ['tax', 'audit', 'liability', 'irs', 'return'], 'tax_relevance_score': 0.45454545454545453, 'risk_indicators': ['adjustment']}
+2025-10-04 23:20:19 - document_processor - INFO - split_into_chunks:158 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:20:19 - document_processor - INFO - split_into_chunks:170 - Created 100 document chunks
+2025-10-04 23:20:19 - document_processor - INFO - process_uploaded_file:202 - Processing complete for 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:25:20 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:25:21 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:25:53 - document_processor - INFO - process_uploaded_file:137 - Starting complete processing for: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:25:53 - document_processor - INFO - extract_text_from_pdf:30 - Extracting text from PDF: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:25:58 - document_processor - INFO - extract_text_from_pdf:42 - Successfully extracted 75911 characters from 23 pages
+2025-10-04 23:25:58 - document_processor - INFO - extract_metadata:52 - Extracting metadata from: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:25:58 - document_processor - INFO - extract_metadata:70 - Metadata extracted: {'filename': '258320c0-f121-4cfa-8846-24343be9678f.pdf', 'pages': 23, 'file_size_mb': 1.53, 'creator': 'pdftk 2.02 - www.pdftk.com', 'producer': 'itext-paulo-155 (itextpdf.sf.net-lowagie.com)', 'creation_date': '2025-09-08 13:33:52+00:00', 'modification_date': '2025-09-08 13:33:52+00:00'}
+2025-10-04 23:25:58 - document_processor - INFO - analyze_document_content:80 - Analyzing document content
+2025-10-04 23:25:58 - document_processor - INFO - analyze_document_content:98 - Document analysis complete
+2025-10-04 23:25:58 - document_processor - INFO - split_into_chunks:108 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:25:58 - document_processor - INFO - split_into_chunks:127 - Created 100 document chunks
+2025-10-04 23:25:58 - document_processor - INFO - process_uploaded_file:144 - Processing complete for 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:29:00 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:29:21 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:29:22 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:31:18 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:31:26 - document_processor - INFO - process_uploaded_file:137 - Starting complete processing for: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:31:26 - document_processor - INFO - extract_text_from_pdf:30 - Extracting text from PDF: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:31:30 - document_processor - INFO - extract_text_from_pdf:42 - Successfully extracted 75911 characters from 23 pages
+2025-10-04 23:31:30 - document_processor - INFO - extract_metadata:52 - Extracting metadata from: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:31:30 - document_processor - INFO - extract_metadata:70 - Metadata extracted: {'filename': '258320c0-f121-4cfa-8846-24343be9678f.pdf', 'pages': 23, 'file_size_mb': 1.53, 'creator': 'pdftk 2.02 - www.pdftk.com', 'producer': 'itext-paulo-155 (itextpdf.sf.net-lowagie.com)', 'creation_date': '2025-09-08 13:33:52+00:00', 'modification_date': '2025-09-08 13:33:52+00:00'}
+2025-10-04 23:31:30 - document_processor - INFO - analyze_document_content:80 - Analyzing document content
+2025-10-04 23:31:30 - document_processor - INFO - analyze_document_content:98 - Document analysis complete
+2025-10-04 23:31:30 - document_processor - INFO - split_into_chunks:108 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:31:30 - document_processor - INFO - split_into_chunks:127 - Created 100 document chunks
+2025-10-04 23:31:30 - document_processor - INFO - process_uploaded_file:144 - Processing complete for 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:32:41 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:32:50 - document_processor - INFO - process_uploaded_file:137 - Starting complete processing for: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:32:50 - document_processor - INFO - extract_text_from_pdf:30 - Extracting text from PDF: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:32:54 - document_processor - INFO - extract_text_from_pdf:42 - Successfully extracted 75911 characters from 23 pages
+2025-10-04 23:32:54 - document_processor - INFO - extract_metadata:52 - Extracting metadata from: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:32:54 - document_processor - INFO - extract_metadata:70 - Metadata extracted: {'filename': '258320c0-f121-4cfa-8846-24343be9678f.pdf', 'pages': 23, 'file_size_mb': 1.53, 'creator': 'pdftk 2.02 - www.pdftk.com', 'producer': 'itext-paulo-155 (itextpdf.sf.net-lowagie.com)', 'creation_date': '2025-09-08 13:33:52+00:00', 'modification_date': '2025-09-08 13:33:52+00:00'}
+2025-10-04 23:32:54 - document_processor - INFO - analyze_document_content:80 - Analyzing document content
+2025-10-04 23:32:54 - document_processor - INFO - analyze_document_content:98 - Document analysis complete
+2025-10-04 23:32:54 - document_processor - INFO - split_into_chunks:108 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:32:54 - document_processor - INFO - split_into_chunks:127 - Created 100 document chunks
+2025-10-04 23:32:54 - document_processor - INFO - process_uploaded_file:144 - Processing complete for 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:34:59 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:35:00 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
+2025-10-04 23:35:06 - document_processor - INFO - process_uploaded_file:137 - Starting complete processing for: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:35:06 - document_processor - INFO - extract_text_from_pdf:30 - Extracting text from PDF: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:35:10 - document_processor - INFO - extract_text_from_pdf:42 - Successfully extracted 75911 characters from 23 pages
+2025-10-04 23:35:10 - document_processor - INFO - extract_metadata:52 - Extracting metadata from: 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:35:10 - document_processor - INFO - extract_metadata:70 - Metadata extracted: {'filename': '258320c0-f121-4cfa-8846-24343be9678f.pdf', 'pages': 23, 'file_size_mb': 1.53, 'creator': 'pdftk 2.02 - www.pdftk.com', 'producer': 'itext-paulo-155 (itextpdf.sf.net-lowagie.com)', 'creation_date': '2025-09-08 13:33:52+00:00', 'modification_date': '2025-09-08 13:33:52+00:00'}
+2025-10-04 23:35:10 - document_processor - INFO - analyze_document_content:80 - Analyzing document content
+2025-10-04 23:35:10 - document_processor - INFO - analyze_document_content:98 - Document analysis complete
+2025-10-04 23:35:10 - document_processor - INFO - split_into_chunks:108 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:35:10 - document_processor - INFO - split_into_chunks:127 - Created 100 document chunks
+2025-10-04 23:35:10 - document_processor - INFO - process_uploaded_file:144 - Processing complete for 258320c0-f121-4cfa-8846-24343be9678f.pdf
+2025-10-04 23:37:18 - document_processor - INFO - process_uploaded_file:137 - Starting complete processing for: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf
+2025-10-04 23:37:18 - document_processor - INFO - extract_text_from_pdf:30 - Extracting text from PDF: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf
+2025-10-04 23:37:49 - document_processor - INFO - extract_text_from_pdf:42 - Successfully extracted 430737 characters from 128 pages
+2025-10-04 23:37:49 - document_processor - INFO - extract_metadata:52 - Extracting metadata from: 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf
+2025-10-04 23:37:49 - document_processor - INFO - extract_metadata:70 - Metadata extracted: {'filename': '6e959189-c84c-4bf9-8006-6959fa863e8e.pdf', 'pages': 128, 'file_size_mb': 1.6, 'creator': 'pdftk 2.02 - www.pdftk.com', 'producer': 'itext-paulo-155 (itextpdf.sf.net-lowagie.com)', 'creation_date': '2025-09-05 21:54:48+00:00', 'modification_date': '2025-09-05 21:54:48+00:00'}
+2025-10-04 23:37:49 - document_processor - INFO - analyze_document_content:80 - Analyzing document content
+2025-10-04 23:37:49 - document_processor - INFO - analyze_document_content:98 - Document analysis complete
+2025-10-04 23:37:49 - document_processor - INFO - split_into_chunks:108 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:37:49 - document_processor - INFO - split_into_chunks:127 - Created 576 document chunks
+2025-10-04 23:37:49 - document_processor - INFO - process_uploaded_file:144 - Processing complete for 6e959189-c84c-4bf9-8006-6959fa863e8e.pdf
+2025-10-04 23:39:34 - document_processor - INFO - process_uploaded_file:137 - Starting complete processing for: 0e655865-en.pdf
+2025-10-04 23:39:34 - document_processor - INFO - extract_text_from_pdf:30 - Extracting text from PDF: 0e655865-en.pdf
+2025-10-04 23:40:12 - document_processor - INFO - extract_text_from_pdf:42 - Successfully extracted 1723481 characters from 658 pages
+2025-10-04 23:40:12 - document_processor - INFO - extract_metadata:52 - Extracting metadata from: 0e655865-en.pdf
+2025-10-04 23:40:12 - document_processor - INFO - extract_metadata:70 - Metadata extracted: {'filename': '0e655865-en.pdf', 'pages': 658, 'file_size_mb': 4.38, 'creator': 'OECD Publishing Systems', 'producer': 'PDFsharp 1.50.5147 (www.pdfsharp.com)', 'creation_date': '2022-01-19 08:44:26+01:00', 'modification_date': '2025-05-14 14:23:07+02:00'}
+2025-10-04 23:40:12 - document_processor - INFO - analyze_document_content:80 - Analyzing document content
+2025-10-04 23:40:13 - document_processor - INFO - analyze_document_content:98 - Document analysis complete
+2025-10-04 23:40:13 - document_processor - INFO - split_into_chunks:108 - Splitting text into chunks (size: 1000, overlap: 200)
+2025-10-04 23:40:13 - document_processor - INFO - split_into_chunks:127 - Created 2368 document chunks
+2025-10-04 23:40:13 - document_processor - INFO - process_uploaded_file:144 - Processing complete for 0e655865-en.pdf
+2025-10-05 01:03:02 - document_processor - INFO - __init__:25 - DocumentProcessor initialized
